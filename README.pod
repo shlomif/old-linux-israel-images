@@ -1,0 +1,9 @@
+=encoding utf8
+
+=head1 ABOUT
+
+These are old images proposed for the IGLU (Israeli Group of Linux Users)
+site.
+
+=cut
+
